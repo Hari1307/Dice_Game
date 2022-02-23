@@ -1,0 +1,30 @@
+*{
+    background-color: #406177;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+.dice{
+    display: inline-block;
+}
+h1{
+    font-size: 80px;
+    margin:30px;
+    color: rgb(84, 245, 191);
+}
+p{
+    font-size: 20px;
+    font-family: 'Architects Daughter', cursive;
+    color: rgb(84, 245, 191);
+
+}
+footer{
+    font-family: 'Architects Daughter', cursive;
+    color: white;
+    margin-top: 8rem;
+    text-align: center;
+
+}
